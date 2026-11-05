@@ -8,3 +8,5 @@ resources
 .env.*
 !.env.example
 deploy.sh
+
+AGENTS.md
